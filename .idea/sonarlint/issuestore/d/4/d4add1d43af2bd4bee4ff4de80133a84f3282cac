@@ -1,0 +1,15 @@
+
+|
+java:S3985#"4Remove this unused private "UserInputVisitor" class.(³Åã½øÿÿÿÿ8†Ì¢»ø1J$e8a497e3-333a-485d-8158-8f38f0477888
+}
+java:S6213'":Rename this variable to not match a restricted identifier.(ê™åÀ8×„Ÿ»ø1J$d19fc5e0-47fb-4d4c-b1f5-e9aeaead26ba
+‹
+java:S1128"CRemove this unused import 'com.github.javaparser.StaticJavaParser'.(Ê­«ÿÿÿÿÿ8Î³Ÿ»ø1J$a15ffec2-77b7-4d26-975f-5e5b15c0e7b4
+š
+java:S1128"RRemove this unused import 'com.github.javaparser.ast.nodeTypes.NodeWithArguments'.(“Ü“Ñûÿÿÿÿ8Î³Ÿ»ø1J$6120dbef-6981-4a68-8a91-f8abcf5a6f13
+•
+java:S1128"RRemove this unused import 'com.github.javaparser.ast.nodeTypes.NodeWithVariables'.(ƒƒ€¦8Î³Ÿ»ø1J$0fc1e4a8-0bd4-4798-bacb-e4d83c08a7d6
+w
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8Î³Ÿ»ø1J$9dcc29b5-8046-434b-9b8f-e04ac2482629
+x
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8Î³Ÿ»ø1J$f5db15c3-b6a3-4d3a-baa3-284a85c1ea59

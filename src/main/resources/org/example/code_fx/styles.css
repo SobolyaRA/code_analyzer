@@ -1,0 +1,13 @@
+.button-large {
+    -fx-pref-width: 150;
+    -fx-pref-height: 50;
+}
+
+.text-area {
+    -fx-font-size: 16px; /* Размер шрифта в пикселях */
+}
+
+.button-export {
+    -fx-pref-width: 80;
+}
+

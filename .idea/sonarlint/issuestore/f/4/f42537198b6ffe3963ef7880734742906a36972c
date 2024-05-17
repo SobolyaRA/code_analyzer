@@ -1,0 +1,10 @@
+
+š
+java:S3776."RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(õ„¡¦üÿÿÿÿ8©×çµø1J$cab5976c-4a1c-458b-8284-b3eb7a3c76d3
+p	java:S108>")Either remove or fill this block of code.(Ï¸«¨ûÿÿÿÿ8«×çµø1J$67354f6e-c425-4bbd-b51b-6fe72a1a9417
+‹
+java:S1128"CRemove this unused import 'com.github.javaparser.StaticJavaParser'.(Ê­«ÿÿÿÿÿ8¯×çµø1J$51641034-9dd4-4005-933d-c2e1227e6d2f
+w
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8¯×çµø1J$888261f4-83fa-4b1f-97c6-702cbbec9ee1
+x
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8¯×çµø1J$b8a9470a-c16c-40df-80d2-389a7b997b02

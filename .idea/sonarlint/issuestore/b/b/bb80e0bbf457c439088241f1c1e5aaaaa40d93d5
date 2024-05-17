@@ -1,0 +1,3 @@
+
+•
+java:S6204""RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ν΄‹8Στ™«ψ1J$33c6fe6a-5df5-46fa-ae1e-d285e598ab1c

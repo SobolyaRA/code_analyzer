@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Label?>
+<BorderPane xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.code_fx.Controller"
+            stylesheets="@styles.css">
+    <top>
+        <MenuBar>
+            <Menu text="Файл">
+                <MenuItem fx:id="menuSelectDirectory" text="Выбор директории"/>
+                <MenuItem fx:id="menuExit" text="Выход"/>
+            </Menu>
+        </MenuBar>
+    </top>
+    <center>
+        <VBox alignment="CENTER" spacing="10">
+            <HBox alignment="CENTER" spacing="20">
+                <Button fx:id="button1" text="Анализ" styleClass="button-large"/>
+                <Button fx:id="exportButton" text="Экспорт" styleClass="button-export"/>
+            </HBox>
+            <HBox alignment="CENTER" spacing="20">
+                <Label fx:id="directoryPathLabel" text="Путь к вашей директории"/>
+            </HBox>
+        </VBox>
+    </center>
+    <bottom>
+        <TextArea fx:id="textArea" prefHeight="325.0" styleClass="text-area"/>
+    </bottom>
+</BorderPane>
