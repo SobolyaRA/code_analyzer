@@ -11,6 +11,11 @@
 ![image](https://github.com/SobolyaRA/code_analyzer/assets/81635546/c9b95a3e-8461-4178-a304-2f80cc710377)
 
 
+## Файлы с уязвимостями
+
+![image](https://github.com/SobolyaRA/code_analyzer/assets/81635546/40e7487c-06eb-4b1a-8054-a20ff074e522)
+
+
 ## Результат работы
 
 ![videoforgif](https://github.com/SobolyaRA/code_analyzer/assets/81635546/4bb204d1-9a8b-4e5b-8626-c7ee9f8420ef)
