@@ -1,17 +1,17 @@
 
-~
-java:S1141Œ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8‘¬ëºø1J$d37f8638-adbc-48bd-b064-87f551be6308
-~
-java:S1141›"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8‘¬ëºø1J$75b39b99-376b-4ed0-b350-0871b784a799
-~
-java:S1141ª"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8‘¬ëºø1J$56dae4fa-b5bc-493c-a8ed-57643ad30a85
-~
-java:S1141¹"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8‘¬ëºø1J$5bdebbdd-5f21-4ed0-956e-b6778be9ef8c
-~
-java:S1141È"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8‘¬ëºø1J$252cf0b3-61ee-4f68-89d1-b074ead6cdc6
-~
-java:S1141×"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8‘¬ëºø1J$c14cfbea-de1b-4619-a655-e7f659f55fa2
-š
-java:S3776]"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(Úúˆšúÿÿÿÿ8¬¬ëºø1J$56b41c5d-ec2f-42f3-9254-26e6787b3bdc
-–
-java:S6204…"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8±¬ëºø1J$ab85c764-0e69-437f-a897-225fd4bbcfea
+X
+java:S1141Œ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8î˜Öƒû1
+X
+java:S1141›"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8î˜Öƒû1
+X
+java:S1141ª"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8î˜Öƒû1
+X
+java:S1141¹"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8î˜Öƒû1
+X
+java:S1141È"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ï˜Öƒû1
+X
+java:S1141×"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ï˜Öƒû1
+t
+java:S3776]"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(Úúˆšúÿÿÿÿ8”™Öƒû1
+p
+java:S6204…"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8›™Öƒû1
